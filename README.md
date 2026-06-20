@@ -14,7 +14,7 @@ An interactive Power BI dashboard analyzing 26 years of NVIDIA Corporation (NASD
 Power BI · DAX · Power Query
 
 ## Dataset
-Source: [Kaggle](https://www.kaggle.com) — NVIDIA historical stock data (1999–2026)
+ NVIDIA historical stock data (1999–2026)
 
 ## Author
 **Muhammad Humair** — Data Analyst
